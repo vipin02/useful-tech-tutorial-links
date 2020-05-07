@@ -1,0 +1,2 @@
+// Mocking rest api with SOAP UI
+https://dzone.com/articles/how-to-mock-rest-api-with-soap-ui-step-by-step-gui
